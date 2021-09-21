@@ -10,7 +10,7 @@
         "title": "Record Title",
         "items": [
           {
-            "activity_creator_pic": "/assets/user/default_avatars/default_avatar_3-fc354f0373de322d54cfbc0d9da74b4e7e93af3949a90c1394028cc5131e72d2.png",
+            "activity_creator_pic": "https://lorempixel.com/200/200/",
             "activity_creator": "JhonCommentor",
             "activity_string": "left feedback.",
             "activity_url": "http://localhost/users/JhonCommentor",
@@ -18,7 +18,7 @@
             "cover_url": "https://lorempixel.com/200/200/"
           },
           {
-            "activity_creator_pic": "http://localhost/derivations/image/crop/226x226/eyJpZCI6Im9yaWdpbmFscy9pbWFnZXMvYXR0YWNobWVudHMvY2Fwbl9jcnVuY2guanBnIiwic3RvcmFnZSI6InN0b3JlIn0?version=4&signature=06aff1c2e2a62d3dc2004c2ec62f52caae2b94351318f811b9aca129d88aa874",
+            "activity_creator_pic": "https://lorempixel.com/200/200/",
             "activity_creator": "porfirio_mills_4014",
             "activity_string": "recommended it.",
             "activity_url": "http://localhost/users/porfirio_mills_4014",
@@ -32,7 +32,7 @@
         "title": "Class Project Document Contribution",
         "items": [
           {
-            "activity_creator_pic": "/assets/user/default_avatars/default_avatar_3-fc354f0373de322d54cfbc0d9da74b4e7e93af3949a90c1394028cc5131e72d2.png",
+            "activity_creator_pic": "https://lorempixel.com/200/200/",
             "activity_creator": "JhonCommentor",
             "activity_string": "left feedback.",
             "activity_url": "http://localhost/users/JhonCommentor",
@@ -40,7 +40,7 @@
             "cover_url": "https://lorempixel.com/200/200/"
           },
           {
-            "activity_creator_pic": "http://localhost/derivations/image/crop/226x226/eyJpZCI6Im9yaWdpbmFscy9pbWFnZXMvYXR0YWNobWVudHMvY2Fwbl9jcnVuY2guanBnIiwic3RvcmFnZSI6InN0b3JlIn0?version=4&signature=06aff1c2e2a62d3dc2004c2ec62f52caae2b94351318f811b9aca129d88aa874",
+            "activity_creator_pic": "https://lorempixel.com/200/200/",
             "activity_creator": "doug_hane_4163",
             "activity_string": "recommended it.",
             "activity_url": "http://localhost/users/doug_hane_4163",
@@ -55,7 +55,7 @@
         "title": "Regrant_3864_3798",
         "items": [
           {
-            "activity_creator_pic": "http://localhost/derivations/image/crop/226x226/eyJpZCI6Im9yaWdpbmFscy9pbWFnZXMvYXR0YWNobWVudHMvY2Fwbl9jcnVuY2guanBnIiwic3RvcmFnZSI6InN0b3JlIn0?version=4&signature=06aff1c2e2a62d3dc2004c2ec62f52caae2b94351318f811b9aca129d88aa874",
+            "activity_creator_pic": "https://lorempixel.com/200/200/",
             "activity_creator": "elyse_4336",
             "activity_string": "contributed to it.",
             "activity_url": "http://localhost/users/elyse_4336",
