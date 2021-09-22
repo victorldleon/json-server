@@ -13,31 +13,31 @@
     "student_avatar": "https://lorempixel.com/g/200/200/",
     "classes": [
       {
-        "class_name": "Learn Graphic Design ",
+        "class_name": "Create an Audio Tale",
         "class_url": "http://localhost/classes/3",
-        "class_thumbnail": "http://localhost/classes/3",
-        "teacher_name": "Morgan Harper Nichols",
+        "class_thumbnail": "https://lorempixel.com/g/400/400/",
+        "teacher_name": "BraydonThompson",
         "tag": "New"
       },
       {
-        "class_name": "Learn Graphic Design ",
+        "class_name": "Create a fairytale",
         "class_url": "http://localhost/classes/3",
-        "class_thumbnail": "http://localhost/classes/3",
-        "teacher_name": "Morgan Harper Nichols",
+        "class_thumbnail": "https://lorempixel.com/g/400/400/",
+        "teacher_name": "Metaphorest",
         "tag": ""
       },
       {
-        "class_name": "Learn Graphic Design ",
+        "class_name": "Design Album Art",
         "class_url": "http://localhost/classes/3",
-        "class_thumbnail": "http://localhost/classes/3",
-        "teacher_name": "Morgan Harper Nichols",
+        "class_thumbnail": "https://lorempixel.com/g/400/400/",
+        "teacher_name": "Marke",
         "tag": ""
       },
       {
-        "class_name": "Learn Graphic Design ",
+        "class_name": "Write a Song",
         "class_url": "http://localhost/classes/3",
-        "class_thumbnail": "http://localhost/classes/3",
-        "teacher_name": "Morgan Harper Nichols",
+        "class_thumbnail": "https://lorempixel.com/g/400/400/",
+        "teacher_name": "Ashes2Ashes",
         "tag": ""
       }
     ]
