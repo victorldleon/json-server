@@ -1,10 +1,6 @@
-<a
-  href="{{data.classes.[0].class_url}}"
-  style="border-radius:48px;background:#eee;display:block;margin:10px;width:100%;max-width:291.43px;text-align:left;padding:10px 0px 10px 0px;max-height:291.43;text-decoration:none;background-image:url('{{data.classes.[0].class_thumbnail}}');background-repeat:no-repeat;background-size:cover;"
->
+<a href="{{data.classes.[0].class_url}}" style="border-radius:48px;background:#eee;display:block;margin:10px auto;width:100%;max-height:326px;min-height:326px;max-width:291.43px;text-align:left;padding:10px 0px 10px 0px;text-decoration:none;background-image:url('{{data.classes.[0].class_thumbnail}}');background-repeat:no-repeat;background-size:cover;">
   {{#if data.classes.[0].tag}}
-  <div
-    style="
+    <div style="
       background: #1f2224;
       color: #fff;
       margin-top: 5px;
@@ -12,38 +8,31 @@
       padding: 10px;
       font-weight: bold;
       float: right;
-    "
-  >
-    {{data.classes.[0].tag}}
-  </div>
+    ">
+      {{data.classes.[0].tag}}
+    </div>
   {{/if}}
-  <h3
-    style="
+  <h3 style="
       color: #ffffff;
       font-weight: bold;
       font-size: 24px;
       margin: 180px 0 10px 20px;
-    "
-  >
+    ">
     {{data.classes.[0].class_name}}
   </h3>
   <p style="color: #ffffff; margin: 0 0 25px 20px">
     width {{data.classes.[0].teacher_name}}
   </p>
-  <div
-    style="
-      background: #d24728;
-      display: block;
-      color: #ffffff;
-      border-radius: 50%;
-      padding: 7.4px 13.74px;
-      bottom: 20px;
-      width: auto;
-      height: auto;
-      float: right;
-      margin: -40px 20px 0 0;
-    "
-  >
-    +
+  <div class="img-container right fixedwidth" style="padding-right: 10px; padding-left: 80%">
+    <img class="right fixedwidth" align="right" border="0" src="https://d15k2d11r6t6rl.cloudfront.net/public/users/Integrators/669d5713-9b6a-46bb-bd7e-c542cff6dd6a/eb85d8ad582448df967fc6623a6d563c/Default.png" style="
+        text-decoration: none;
+        -ms-interpolation-mode: bicubic;
+        height: auto;
+        border: 0;
+        width: 34.29px;
+        max-width: 100%;
+        float: none;
+        display: block;
+      " width="34.29" />
   </div>
 </a>
